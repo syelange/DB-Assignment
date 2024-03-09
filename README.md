@@ -20,7 +20,7 @@
 
 Steps: 
 1. create the new repository called DB-Assignment and make it public and make a file called Answers.md
-   for help: [How to create the repository in gitgub](https://www.geeksforgeeks.org/creating-repository-in-github/)
+   <br> for help: [How to create the repository in gitgub](https://www.geeksforgeeks.org/creating-repository-in-github/)
 2. Answers to the 1st and 2nd questions will go to the Answer.md
 3. The answer to the 3rd question will go to the schema.<language_extenstion> eg(schema.js, schema.java, schema.py, schema.sql etc)
 4. upload it to GitHub.
