@@ -1,4 +1,4 @@
-### The table image is given and also a few questions along with it. ###
+### Read the diagram carefully and answer the below questions. ###
 
 ![ecommerce table](https://raw.githubusercontent.com/iAmritMalviya/DB-Assignment/main/product-management-ecommerce-table-.webp)
 
