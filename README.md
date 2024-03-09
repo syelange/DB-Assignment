@@ -4,7 +4,19 @@
 
 **Questions**
 
-[Question for the above image](https://github.com/iAmritMalviya/DB-Assignment/blob/main/Questions.md)
+### 1. Explain the relationship between the "Product" and "Product_Category" entities from the above diagram. ###
+
+-------
+
+### 2. How could you ensure that each product in the "Product" table has a valid category assigned to it? ###
+
+-------
+
+### 3. Create schema in any Database script or any ORM (Object Relational Mapping). ###
+
+-------
+
+
 
 Steps: 
 1. create the new repository called DB-Assignment and make it public and make a file called Answers.md [How to create repository in gitgub](https://www.geeksforgeeks.org/creating-repository-in-github/)
